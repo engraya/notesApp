@@ -5,9 +5,176 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #23272f;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+
+* {
+  margin: 0;
+  colour: hsl(162, 85%, 31%);
+}
+
+.navbar {
+  padding : 20px;
+  display : flex;
+  align-items : center;
+  max-width : 1000px;
+  margin : 0 auto;
+  border-bottom : 1px solid #f2f2f2
+}
+
+.navbar h2 {
+  color : #d8e6d8;
+
+}
+.navbar .links {
+  margin-left: auto;
+  color: rgb(13, 124, 124);
+
+}
+
+.navbar a {
+  margin-left: 16px;
+  text-decoration: none;
+  padding: 5px;
+  color: azure;
+}
+
+.navbar .new{
+  background: green;
+  color: azure;
+  border: 8px;
+  padding: 8px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+
+.navbar a:hover {
+  color : green
+}
+
+.content {
+  max-width: 1000px;
+  margin: 40px auto;
+  padding: 20px;
+  color: azure;
+  display: block;
+}
+
+.note-preview {
+  padding: 10px 15px;
+  margin: 20px 0;
+  display: block;
+  border-radius: 15px;
+  border-color: #149eca;
+}
+
+.note-preview:hover {
+  box-shadow: 1px 3px 5px #f8f5f5ef;
+
+}
+.note-preview h2 {
+  font-size: 20px;
+  color: #d8e6d8;
+  margin-bottom: 8px;
+  border-radius: 10px;
+  border-color: chartreuse;
+}
+
+.note-preview a {
+  text-decoration : none;
+}
+.note-preview small{
+  font-style: italic;
+}
+.note-details h2{
+  font-size: 20px;
+  color: #d8e6d8;
+  margin-bottom: 10px;
+}
+.note-details small{
+  font-style: italic;
+}
+.note-details button{
+  background: red;
+  color: azure;
+  border: 8px;
+  padding: 8px;
+  border-radius: 8px;
+  cursor: pointer;
+  margin-right: 14px;
+}
+ .note-details .redirect{
+  background: #149eca;
+  color: azure;
+  border: 8px;
+  padding: 8px;
+  border-radius: 8px;
+  cursor: pointer;
+  margin-right: 14px;
+}
+
+.note-details div{
+  margin: 20px 0;
+}
+.note-list h2{
+  text-align: center;
+}
+
+.note-list h3{
+  color: azure;
+}
+.create {
+  max-width: 500px;
+  margin: 0 auto;
+  text-align: center;
+}
+.create label{
+  text-align: left;
+  display: block;
+}
+.create h2{
+  font-size: 20px;
+  color: #d8e6d8;
+  margin-bottom: 30px;
+}
+
+.create input, .create textarea{
+  width: 100%;
+  padding: 6px 10px;
+  margin: 10px 0;
+  border: 1px solid #ddd;
+  box-sizing: border-box;
+  display: block;
+}
+.create button{
+  background-color: green;
+  color: azure;
+  border: 2px;
+  padding: 8px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+.create .back-home {
+  background-color: red;
+  color: azure;
+  border: 2px;
+  padding: 8px;
+  border-radius: 8px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+.page-not-found button{
+  background: #149eca;
+  color: azure;
+  border: 8px;
+  padding: 8px;
+  border-radius: 8px;
+  cursor: pointer;
 }

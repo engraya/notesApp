@@ -1,0 +1,74 @@
+{
+  "notes": [
+    {
+      "title": "Season Vacation",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa dolore enim dolorum nostrum ipsed in. Impedit in optio, molestias excepturi numquam harum soluta itaque corporis. Fugiat architecto eos iste veritatis perspiciatis sequi quaerat cumque masi adipisci reiciendis!",
+      "date": "22-July-2005",
+      "time": "7:10pm",
+      "id": "1"
+    },
+    {
+      "title": "Developer Blog",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa dolore enim dolorum nostrum ipsed in. Impedit in optio, molestias excepturi numquam harum soluta itaque corporis. Fugiat architecto eos iste veritatis perspiciatis sequi quaerat cumque masi adipisci reiciendis!",
+      "date": "11-Sept-2019",
+      "time": "8:43am",
+      "id": "2"
+    },
+    {
+      "title": "Programming",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa dolore enim dolorum nostrum ipsed in. Impedit in optio, molestias excepturi numquam harum soluta itaque corporis. Fugiat architecto eos iste veritatis perspiciatis sequi quaerat cumque masi adipisci reiciendis!",
+      "date": "12-March-2020",
+      "time": "11:34am",
+      "id": "3"
+    },
+    {
+      "title": "Family Visits",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa dolore enim dolorum nostrum ipsed in. Impedit in optio, molestias excepturi numquam harum soluta itaque corporis. Fugiat architecto eos iste veritatis perspiciatis sequi quaerat cumque masi adipisci reiciendis!",
+      "date": "30-October-2021",
+      "time": "10:38pm",
+      "id": "4"
+    },
+    {
+      "title": "Consulting",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa dolore enim dolorum nostrum ipsed in. Impedit in optio, molestias excepturi numquam harum soluta itaque corporis. Fugiat architecto eos iste veritatis perspiciatis sequi quaerat cumque masi adipisci reiciendis!",
+      "date": "08-July-2022",
+      "time": "12:39am",
+      "id": "5"
+    },
+    {
+      "title": "Clients Meetings",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa dolore enim dolorum nostrum ipsed in. Impedit in optio, molestias excepturi numquam harum soluta itaque corporis. Fugiat architecto eos iste veritatis perspiciatis sequi quaerat cumque masi adipisci reiciendis!",
+      "date": "23-December-2023",
+      "time": "4:19pm",
+      "id": "6"
+    },
+    {
+      "title": "My Health",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa dolore enim dolorum nostrum ipsed in. Impedit in optio, molestias excepturi numquam harum soluta itaque corporis. Fugiat architecto eos iste veritatis perspiciatis sequi quaerat cumque masi adipisci reiciendis!",
+      "date": "26-August-2023",
+      "time": "2:49am",
+      "id": "7"
+    },
+    {
+      "title": "Sources",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa dolore enim dolorum nostrum ipsed in. Impedit in optio, molestias excepturi numquam harum soluta itaque corporis. Fugiat architecto eos iste veritatis perspiciatis sequi quaerat cumque masi adipisci reiciendis!",
+      "date": "22-January-2023",
+      "time": "9:00pm",
+      "id": "8"
+    },
+    {
+      "title": "My Trip to the Park",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa dolore enim dolorum nostrum ipsed in. Impedit in optio, molestias excepturi numquam harum soluta itaque corporis. Fugiat architecto eos iste veritatis perspiciatis sequi quaerat cumque masi adipisci reiciendisutuyryux.\n",
+      "date": "2023-02-02",
+      "time": "08:20",
+      "id": "HAmiv3w"
+    },
+    {
+      "title": "Developers Community MeetUp",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa dolore enim dolorum nostrum ipsed in. Impedit in optio, molestias excepturi numquam harum soluta itaque corporis. Fugiat architecto eos iste veritatis perspiciatis sequi quaerat cumque masi adipisci reiciendis!.\n",
+      "date": "2023-01-29",
+      "time": "18:32",
+      "id": "35OIZbk"
+    }
+  ]
+}
